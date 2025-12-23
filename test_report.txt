@@ -1,0 +1,7 @@
+===== Test Summary =====
+Total Records: 115
+Missing Values: 0
+Invalid CPU Records: 0
+Invalid Memory Records: 0
+Invalid Disk Records: 0
+System validation complete.
